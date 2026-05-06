@@ -1,0 +1,11 @@
+pandas 
+numpy 
+matplotlib 
+nltk 
+wordcloud 
+scikit-learn 
+transformers 
+torch accelerate 
+tqdm 
+openpyxl 
+pyarrow
